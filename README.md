@@ -48,11 +48,11 @@ Estudante de Ciência da Computação na UFPel, natural do Amazonas. Focado em A
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="C++" 
+    title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
@@ -77,6 +77,14 @@ Estudante de Ciência da Computação na UFPel, natural do Amazonas. Focado em A
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 <br/>
